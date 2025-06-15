@@ -14,7 +14,7 @@ We’re creating a Web3 movement where **mind, body, and spirit** come together 
 
 ## 🌐 Website
 
-[https://www.physixcoin.com](https://www.physixcoin.com)
+[https://physixcoin.com](https://physixcoin.com)
 
 ## 📜 Verified Smart Contract
 
@@ -37,10 +37,9 @@ We’re creating a Web3 movement where **mind, body, and spirit** come together 
 
 ## 📘 Whitepaper
 
-*Coming soon — outlining project phases, tokenomics, and roadmap.*
+[PHYSIX Whitepaper (PDF)](https://github.com/physixdev/physixcoin/blob/main/PHYSIX-Whitepaper.pdf)
 
 ## ✝️ Final Word
 
 PHYSIX isn't just another meme — it's a movement.  
 **Built for believers. Guided by purpose. Fueled by Web3.**
-
